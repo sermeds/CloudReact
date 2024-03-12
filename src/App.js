@@ -11,7 +11,6 @@ function App() {
         </p>
         <p>Cloud Computing!!!</p>
         <p>CI/CD!</p>
-        <p>Working!</p>
       </header>
     </div>
   );
