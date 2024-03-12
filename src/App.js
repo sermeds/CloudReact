@@ -10,6 +10,7 @@ function App() {
           Hello World.
         </p>
         <p>Cloud Computing!!!</p>
+        <p>CI/CD</p>
       </header>
     </div>
   );
